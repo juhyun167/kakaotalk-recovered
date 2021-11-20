@@ -1,7 +1,5 @@
 # **kakaotalk-recovered**
 
-![banner](banner.png)
-
 ![banner](demo.gif)
 
 Deleted messages recovery for [Kakaotalk](https://www.kakaocorp.com/page/service/service/KakaoTalk) messenger on Windows. Written in Javascript and powered by [Frida](https://frida.re/).
